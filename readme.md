@@ -2,4 +2,5 @@
 ## second heading
 
 ** bold using "*" **
-__ bold using "_" _
+<br>
+__ bold using "_" __
